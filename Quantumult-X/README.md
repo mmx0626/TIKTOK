@@ -14,7 +14,7 @@
 2.  打开QuantumultX--找到重写--点击引用--右上角添加
 3.  粘贴链接-右上角确定
 4.  安装证书信任证书--[教程](https://gitee.com/bp233/script/raw/master/CA.md)
-5.  油管视频演示--[点击观看](https://youtu.be/DgBmDCTA_n8)
+5.  油管视频演示--[点击观看](https://youtu.be/MF2ZghTQens)
 
 #### 联系交流
 
