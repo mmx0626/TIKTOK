@@ -1,4 +1,4 @@
-#油管搜索：Happy白嫖
+#!name=TiKok-kR
 [URL Rewrite]
 #tiktok解锁直播区域限制
 (?<=_region=)CN(?=&) KR 307
